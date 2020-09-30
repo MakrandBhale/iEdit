@@ -1,0 +1,16 @@
+{
+  "name": "venom",
+  "version": "0.0.1",
+  "description": "Kickstarter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Makrand",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.4",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}
